@@ -4,6 +4,7 @@ This capstone project is to analyze a dataset and build predictive models that c
 The HR department at Salifort Motors is seeking data-driven initiatives to improve employee satisfaction and retention. They have collected employee data but require assistance in leveraging it to understand turnover. As a data analytics professional, my goal is to analyze this data, build a model to predict employee departure, and provide insights into the factors driving attrition. Increasing employee retention is a key business objective, as finding and onboarding new employees is costly and time-consuming.
 The dataset in this lab contains 15,000 rows and 10 columns for the variables listed below.
 
+
 Variable	Description
 satisfaction_level	Employee-reported job satisfaction level [0–1]
 last_evaluation	Score of employee's last performance review [0–1]
